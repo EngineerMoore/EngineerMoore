@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello,
+I am a fullstack developer so I'm proficient in the frontend and in the backend. When I think of coding, I see opportunity. I believe there is no area where solid code can't add tremendous value. This belief has led me into software Engineering. I may be new to software development, but I'm so excited to continue learning so that I can bring my ideas to life. Currently, I am working on an interactive drawing game.
 
+# Thank you for stopping by!
 <!--
 **EngineerMoore/EngineerMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
